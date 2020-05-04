@@ -20,7 +20,7 @@
 project = 'Hello World'
 copyright = '2020, Anil Kumar Teegala'
 author = 'Anil Kumar Teegala'
-
+master_doc = 'index'
 # The full version, including alpha/beta/rc tags
 release = 'V1.0'
 
